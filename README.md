@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A developer and enthusiast! and a handsome man
 ----------------------------------------------
 
-* 🌍  I'm based in About Me Have a passion for technology and coding Enjoy creating innovative solutions. Fun fact: I like to read. Watch movies and do projects.
+* 🌍  I'm based in Thailand
+* About Me Have a passion for technology and coding Enjoy creating innovative solutions.
+* Fun fact: I like to read. Watch movies and do projects.
 * ✉️  You can contact me at [frankhupu@gmail.com](mailto:frankhupu@gmail.com)
 
 ### Skills
