@@ -71,8 +71,6 @@ A developer and enthusiast! and a handsome man
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Jinwoo290350)
 </p>
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Jinwoo290350"><img src="https://github-readme-stats.vercel.app/api?username=Jinwoo290350&show_icons=true&hide=&count_private=true&title_color=ff4b4b&text_color=d1d5db&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jinwoo290350's GitHub stats" /></a>
