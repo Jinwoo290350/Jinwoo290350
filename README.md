@@ -51,4 +51,4 @@ A developer and enthusiast! and a handsome man
 
 <a href="http://www.github.com/Jinwoo290350"><img src="https://github-readme-stats.vercel.app/api?username=Jinwoo290350&show_icons=true&hide=&count_private=true&title_color=ff4b4b&text_color=d1d5db&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jinwoo290350's GitHub stats" /></a>
 
-<a href="https://github.com/Jinwoo290350" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwoo290350&langs_count=10&title_color=ff4b4b&text_color=d1d5db&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Jinwoo290350" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwoo290350&langs_count=10&layout=compact&title_color=ff4b4b&text_color=d1d5db&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
