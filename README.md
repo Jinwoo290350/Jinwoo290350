@@ -14,8 +14,11 @@ A developer and enthusiast! and a handsome man
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 [![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg)](https://github.com/CEDT-Chula/For-The-Cedt-Badge/tree/main/badges)
 
-### Song
-![image](https://github.com/user-attachments/assets/ea6ce63b-195f-487c-9490-f67baf7354ab)
+
+## Being Chilling 🎵
+
+![spotify_profile](https://raw.githubusercontent.com/Jinwoo290350/Jinwoo290350/b78689f63681b6a2fe95dfdea96a8e92c72d3612/spotify_profile.svg)
+
 
 ### Skills
 
