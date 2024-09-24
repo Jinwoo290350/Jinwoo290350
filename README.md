@@ -61,7 +61,7 @@ A developer and enthusiast! and a handsome man
   <a href="https://www.youtube.com/@____-pl2ty" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />
   </a>
-</p>
+
 ## My streak 🔥
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jinwoo290350&theme=prussian&hide_border=true)
@@ -69,7 +69,7 @@ A developer and enthusiast! and a handsome man
 ## Trophies 🏆
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Jinwoo290350)
-
+</p>
 
 ### Badges
 
