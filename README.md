@@ -4,10 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A developer and enthusiast! and a handsome man
 ----------------------------------------------
 
-* 🌍  I'm based in Thailand
-* About Me Have a passion for technology and coding Enjoy creating innovative solutions.
-* Fun fact: I like to read. Watch movies and do projects.
-* ✉️  You can contact me at [frankhupu@gmail.com](mailto:frankhupu@gmail.com)
+* 🌍 I'm headquartered in Thailand Concerning Me possess an enthusiasm for coding and technology
+* Have fun coming up with novel solutions.
+* Unusual fact: I enjoy reading. Watch films and work on projects.
+*  ✉️ My email address is [frankhupu@gmail.com].(frankhupu@gmail.com as mailto)
+
+
   
 
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
