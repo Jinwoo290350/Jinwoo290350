@@ -7,7 +7,7 @@ A developer and enthusiast! and a handsome man
 * 🌍 I'm headquartered in Thailand Concerning Me possess an enthusiasm for coding and technology
 * Have fun coming up with novel solutions.
 * Unusual fact: I enjoy reading. Watch films and work on projects.
-*  ✉️ My email address is [frankhupu@gmail.com].(frankhupu@gmail.com as mailto)
+*  ✉️ My email address is [frankhupu@gmail.com].
 
 
   
