@@ -73,8 +73,10 @@ A developer and enthusiast! and a handsome man
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Jinwoo290350)
 </p>
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Jinwoo290350"><img src="https://github-readme-stats.vercel.app/api?username=Jinwoo290350&show_icons=true&hide=&count_private=true&title_color=ff4b4b&text_color=d1d5db&icon_color=22c55e&bg_color=0f172a&hide_border=true&show_icons=true" alt="Jinwoo290350's GitHub stats" /></a>
+## Github Stat💻
 
-<a href="https://github.com/Jinwoo290350" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwoo290350&langs_count=10&layout=compact&title_color=ff4b4b&text_color=d1d5db&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+![Jinwoo290350's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinwoo290350&show_icons=true&theme=prussian&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwoo290350&layout=compact&theme=transparent&hide_border=true)
+
+
