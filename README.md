@@ -21,7 +21,7 @@ A developer and enthusiast! and a handsome man
 ![spotify_profile](https://raw.githubusercontent.com/Jinwoo290350/Jinwoo290350/b78689f63681b6a2fe95dfdea96a8e92c72d3612/spotify_profile.svg)
 
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
